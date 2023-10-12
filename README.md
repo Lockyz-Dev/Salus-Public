@@ -1,4 +1,7 @@
-# Bit Core
+# Bit Public
+## Note
+This version of the code for Bit is not actively worked on, we're focusing on moving most of the features to Bit: Core's plugin system as well as updating the regular bot.
+
 ## Version Information
 | Current Version | Next Version |
 | :---: | :---: |
